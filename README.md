@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuri Boralugoda</h1>
 <h3 align="center">🎓 Third-Year Undergraduate in Biomedical Engineering | University of Moratuwa</h3>
 
-<img align="right" alt="Robot" src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/robot-bio.png" width="250"/>
+<img align="right" alt="Robot" src="https://raw.githubusercontent.com/msboralugoda/edit/main/robot-bio.png" width="250"/>
 
 🧬 I'm passionate about integrating cutting-edge technology with healthcare to build meaningful, life-changing solutions.  
 At the University of Moratuwa, I explore:
