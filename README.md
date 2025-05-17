@@ -42,25 +42,19 @@ From **product design and image processing** to **sensor-based systems** and **a
 
 I’m open to **collaborations, internships, and research opportunities** in the biomedical domain!
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-- 🧑‍💻 [GitHub](https://github.com/YourUsername)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- 📧 Email: [msboralu@gmail.com](mailto:msboralu@gmail.com)  
+- 🧑‍💻 [GitHub](https://github.com/msboralugoda)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/manuri-boralugoda-4884a5273/)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Manuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Manuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=msboralugoda&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
----
-
-### 🧪 Fun Fact:
-
-> I once prototyped a wearable system that tracks vital signs and syncs it with a mobile app built entirely in Python and Node-RED.  
-> Biomedical + Software = 🚀 Magic!
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msboralugoda&layout=compact&theme=radical)
 
 ---
 
-*“Engineering for health, one line of code at a time.”*
+
+
