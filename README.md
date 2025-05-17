@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Manuri Boralugoda</h1>
-<h3 align="center">🎓 Third-Year Undergraduate in Biomedical Engineering | University of Moratuwa</h3>
+<h1 align="center">Hello 👋, I'm Manuri Boralugoda</h1>
+<h3 align="center">🎓 Second-Year Undergraduate in Biomedical Engineering | University of Moratuwa</h3>
 
-<img align="right" alt="Robot" src="https://raw.githubusercontent.com/msboralugoda/edit/main/robot-bio.png" width="250"/>
+
 
 🧬 I'm passionate about integrating cutting-edge technology with healthcare to build meaningful, life-changing solutions.  
 At the University of Moratuwa, I explore:
@@ -42,7 +42,7 @@ From **product design and image processing** to **sensor-based systems** and **a
 
 I’m open to **collaborations, internships, and research opportunities** in the biomedical domain!
 
-- 📧 Email: [msboralu@gmail.com](mailto:msboralu@gmail.com)  
+- 📧 [msboralu@gmail.com](mailto:msboralu@gmail.com)  
 - 🧑‍💻 [GitHub](https://github.com/msboralugoda)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/manuri-boralugoda-4884a5273/)
 
