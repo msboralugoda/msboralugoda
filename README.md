@@ -16,10 +16,11 @@ At the University of Moratuwa, I explore:
 
 ### 🧠 About Me
 
-I thrive at the intersection of **healthcare and innovation**, working on projects that improve **mobility**, **surgical precision**, and **health monitoring**.  
-From **product design and image processing** to **sensor-based systems** and **app development**, I love translating engineering concepts into **patient-centered solutions**.
+I thrive at the intersection of healthcare, technology, and innovation — creating solutions that go beyond functionality to be truly **accessible**, **affordable**, and **impactful**.  
 
-🔬 I’m especially excited about making **assistive technologies smarter** and **medical devices more user-friendly**.
+Whether it's engineering **low-cost wearable ECG monitors** for rural clinics, developing **non-invasive NIR-based glucometers**, or building **IoT-enabled medication systems**, my work is rooted in improving patient outcomes — especially in **underserved communities**.
+
+🔬 I'm especially passionate about making healthcare **smarter and more connected** — through **embedded machine learning**, **intuitive human-computer interaction**, and **thoughtfully designed medical devices** that put the user first.
 
 ---
 
