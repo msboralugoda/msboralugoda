@@ -14,7 +14,7 @@ At the University of Moratuwa, I explore:
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 I thrive at the intersection of healthcare, technology, and innovation — creating solutions that go beyond functionality to be truly **accessible**, **affordable**, and **impactful**.  
 
@@ -24,7 +24,7 @@ Whether it's engineering **low-cost wearable ECG monitors** for rural clinics, d
 
 ---
 
-### 🧰 Tech Stack & Tools
+###  Tech Stack & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
@@ -40,7 +40,7 @@ Whether it's engineering **low-cost wearable ECG monitors** for rural clinics, d
 
 ---
 
-### 📬 Let's Connect
+###  Let's Connect
 
 I’m open to **collaborations, internships, and research opportunities** in the biomedical domain!
 
@@ -50,7 +50,7 @@ I’m open to **collaborations, internships, and research opportunities** in the
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 ![Manuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=msboralugoda&show_icons=true&theme=radical)
 
