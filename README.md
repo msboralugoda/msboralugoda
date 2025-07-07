@@ -6,9 +6,8 @@
 🧬 I'm passionate about integrating cutting-edge technology with healthcare to build meaningful, life-changing solutions.  
 At the University of Moratuwa, I explore:
 
-- ⚙️ Assistive Devices
-- 🤖 Embedded Machine Learning & IoT Healthcare Systems 
 - 📡 Biomedical Signal Processing & Physiological Modeling
+- ⚙️ Assistive Devices 
 - 🩺 Medical Instrumentation  
 - 🧘‍♂️ Wearable Health Electronics  
 
