@@ -19,7 +19,7 @@ I thrive at the intersection of healthcare, technology, and innovation — creat
 
 Whether it's engineering **low-cost wearable ECG monitors** for rural clinics, developing **non-invasive NIR-based glucometers**, or building **IoT-enabled medication systems**, my work is rooted in improving patient outcomes — especially in **underserved communities**.
 
-🔬 I'm especially passionate about making healthcare **smarter and more connected** — through **embedded machine learning**, **intuitive human-computer interaction**, and **thoughtfully designed medical devices** that put the user first.
+🔬 I'm especially passionate about making healthcare **smarter and more connected** — through  **intuitive human-computer interaction**, and **thoughtfully designed medical devices** that put the user first.
 
 ---
 
